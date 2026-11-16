@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kursovaya/kursovaya.vcxproj" Id="d516a6b1-373b-493e-a99e-9f9217c0046f" />
+</Solution>
